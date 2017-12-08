@@ -15,7 +15,3 @@ extend 32 gb ram
 Javed
 
 2000/
-
-Trying to add conflict in MasterBranch
-Trying to occure conflict.
-
